@@ -4,9 +4,6 @@
     <style>
       .cls-1 {
         fill: url(#_未命名漸層_80);
-        stroke: #f39800;
-        stroke-miterlimit: 10;
-        stroke-width: 3px;
       }
     </style>
     <linearGradient id="_未命名漸層_80" data-name="未命名漸層 80" x1="850.27" y1="35.46" x2="850.27" y2="1669.94" gradientUnits="userSpaceOnUse">
